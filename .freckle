@@ -1,0 +1,4 @@
+- static-website:
+    static_website_domain: 127.0.0.1   # ip address or domain name used by this server
+    static_website_port: 80            # port the webserver listens to
+    letsencrypt_email: none            # if not 'none', the adapter will request a letsencrypt https certificate, and use this email address in the process
