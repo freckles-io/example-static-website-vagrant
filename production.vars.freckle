@@ -1,0 +1,7 @@
+- freckle:
+     owner: www-data
+     group: www-data
+
+- static-website:
+     static_website_domain: example.frkl.io
+     static_website_port: 80

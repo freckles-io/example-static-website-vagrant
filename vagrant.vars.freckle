@@ -1,0 +1,6 @@
+- freckle:
+     owner: vagrant
+     group: vagrant
+- static-website:
+     static_website_port: 8080
+
